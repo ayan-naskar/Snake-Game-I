@@ -2,6 +2,9 @@
 #include<stdlib.h>
 #include<time.h>
 #include<conio.h>
+//---------------------------------------------
+// REMEMBER TO NAME THE THIS FILE Justagame.c ELSE THE PROGRAM WILL NOT BE ABLE TO CALL ITSELF
+//---------------------------------------------
 
 void initializezero(int *p)
 {
